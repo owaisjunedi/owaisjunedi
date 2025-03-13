@@ -14,6 +14,8 @@ Outside of work, I'm interested in following the developments of science, volunt
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:owaisjunedi208@gmail.com)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/owais-junedi/)
 
+~ Khaja Mohammad Owais Junedi
+
 <!---
 - 👋 Hi, I’m @owaisjunedi
 - 👀 I’m interested in ...
